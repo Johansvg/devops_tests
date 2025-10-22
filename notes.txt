@@ -1,0 +1,7 @@
+desde un ec2, ejecutarlo y generar un main.py desde consola
+
+vim main.py
+
+fuck the police
+Aprender a usar vim :y
+
